@@ -9,9 +9,9 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Andrew Carter"]
   spec.email         = ["asc@snoq.io"]
 
-  spec.summary       = %q{TODO: Write a short summary, because RubyGems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Manage configuration files with git}
+  spec.description   = %q{config_vault manages a git backed repository of configuration files and links them on a system.}
+  spec.homepage      = "https://github.com/ascarter/config_vault"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
